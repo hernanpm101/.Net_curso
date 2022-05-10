@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\bin\Debug\net6.0\3_clase.exe
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\bin\Debug\net6.0\3_clase.deps.json
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\bin\Debug\net6.0\3_clase.runtimeconfig.json
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\bin\Debug\net6.0\3_clase.dll
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\bin\Debug\net6.0\3_clase.pdb
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\obj\Debug\net6.0\3_clase.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\obj\Debug\net6.0\3_clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\obj\Debug\net6.0\3_clase.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\obj\Debug\net6.0\3_clase.AssemblyInfo.cs
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\obj\Debug\net6.0\3_clase.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\obj\Debug\net6.0\3_clase.dll
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\obj\Debug\net6.0\refint\3_clase.dll
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\obj\Debug\net6.0\3_clase.pdb
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\obj\Debug\net6.0\3_clase.genruntimeconfig.cache
+C:\Users\usuario\Desktop\.NET_curso\3_clase\3_clase\obj\Debug\net6.0\ref\3_clase.dll

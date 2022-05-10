@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\bin\Debug\net6.0\3_clase_calculos.exe
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\bin\Debug\net6.0\3_clase_calculos.deps.json
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\bin\Debug\net6.0\3_clase_calculos.runtimeconfig.json
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\bin\Debug\net6.0\3_clase_calculos.dll
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\bin\Debug\net6.0\3_clase_calculos.pdb
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\obj\Debug\net6.0\3_clase_calculos.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\obj\Debug\net6.0\3_clase_calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\obj\Debug\net6.0\3_clase_calculos.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\obj\Debug\net6.0\3_clase_calculos.AssemblyInfo.cs
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\obj\Debug\net6.0\3_clase_calculos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\obj\Debug\net6.0\3_clase_calculos.dll
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\obj\Debug\net6.0\refint\3_clase_calculos.dll
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\obj\Debug\net6.0\3_clase_calculos.pdb
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\obj\Debug\net6.0\3_clase_calculos.genruntimeconfig.cache
+C:\Users\usuario\Desktop\.NET_curso\3_clase_calculos\3_clase_calculos\obj\Debug\net6.0\ref\3_clase_calculos.dll
